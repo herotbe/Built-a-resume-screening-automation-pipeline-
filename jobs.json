@@ -1,0 +1,109 @@
+[
+  {
+    "job_id":"J01",
+    "title":"Data Analyst Intern",
+    "domain":"data",
+    "required_skills":[
+      "Python",
+      "SQL",
+      "Pandas",
+      "Data Visualization",
+      "Statistics"
+    ],
+    "min_experience":0,
+    "job_description":"We are looking for a Data Analyst Intern to join our team. The ideal candidate should be proficient in Python, SQL, Pandas, Data Visualization and Statistics. Minimum 0 year(s) of experience required. This role focuses on data tasks and offers hands-on learning in a fast-paced environment."
+  },
+  {
+    "job_id":"J02",
+    "title":"Machine Learning Intern",
+    "domain":"data",
+    "required_skills":[
+      "Python",
+      "Machine Learning",
+      "NumPy",
+      "Statistics"
+    ],
+    "min_experience":1,
+    "job_description":"We are looking for a Machine Learning Intern to join our team. The ideal candidate should be proficient in Python, Machine Learning, NumPy and Statistics. Minimum 1 year(s) of experience required. This role focuses on data tasks and offers hands-on learning in a fast-paced environment."
+  },
+  {
+    "job_id":"J03",
+    "title":"Frontend Developer Intern",
+    "domain":"web_dev",
+    "required_skills":[
+      "JavaScript",
+      "React",
+      "HTML",
+      "CSS",
+      "Git"
+    ],
+    "min_experience":0,
+    "job_description":"We are looking for a Frontend Developer Intern to join our team. The ideal candidate should be proficient in JavaScript, React, HTML, CSS and Git. Minimum 0 year(s) of experience required. This role focuses on web dev tasks and offers hands-on learning in a fast-paced environment."
+  },
+  {
+    "job_id":"J04",
+    "title":"Full Stack Developer Intern",
+    "domain":"web_dev",
+    "required_skills":[
+      "JavaScript",
+      "Node.js",
+      "React",
+      "MongoDB",
+      "REST APIs"
+    ],
+    "min_experience":1,
+    "job_description":"We are looking for a Full Stack Developer Intern to join our team. The ideal candidate should be proficient in JavaScript, Node.js, React, MongoDB and REST APIs. Minimum 1 year(s) of experience required. This role focuses on web dev tasks and offers hands-on learning in a fast-paced environment."
+  },
+  {
+    "job_id":"J05",
+    "title":"Digital Marketing Intern",
+    "domain":"marketing",
+    "required_skills":[
+      "SEO",
+      "Social Media Marketing",
+      "Content Writing",
+      "Google Analytics"
+    ],
+    "min_experience":0,
+    "job_description":"We are looking for a Digital Marketing Intern to join our team. The ideal candidate should be proficient in SEO, Social Media Marketing, Content Writing and Google Analytics. Minimum 0 year(s) of experience required. This role focuses on marketing tasks and offers hands-on learning in a fast-paced environment."
+  },
+  {
+    "job_id":"J06",
+    "title":"Performance Marketing Intern",
+    "domain":"marketing",
+    "required_skills":[
+      "Meta Ads",
+      "Google Analytics",
+      "Email Marketing",
+      "Copywriting"
+    ],
+    "min_experience":1,
+    "job_description":"We are looking for a Performance Marketing Intern to join our team. The ideal candidate should be proficient in Meta Ads, Google Analytics, Email Marketing and Copywriting. Minimum 1 year(s) of experience required. This role focuses on marketing tasks and offers hands-on learning in a fast-paced environment."
+  },
+  {
+    "job_id":"J07",
+    "title":"UI\/UX Design Intern",
+    "domain":"design",
+    "required_skills":[
+      "Figma",
+      "UI\/UX Design",
+      "Wireframing",
+      "Prototyping"
+    ],
+    "min_experience":0,
+    "job_description":"We are looking for a UI\/UX Design Intern to join our team. The ideal candidate should be proficient in Figma, UI\/UX Design, Wireframing and Prototyping. Minimum 0 year(s) of experience required. This role focuses on design tasks and offers hands-on learning in a fast-paced environment."
+  },
+  {
+    "job_id":"J08",
+    "title":"Business Analyst Intern",
+    "domain":"business",
+    "required_skills":[
+      "Excel",
+      "Financial Modeling",
+      "Market Research",
+      "Business Analysis"
+    ],
+    "min_experience":0,
+    "job_description":"We are looking for a Business Analyst Intern to join our team. The ideal candidate should be proficient in Excel, Financial Modeling, Market Research and Business Analysis. Minimum 0 year(s) of experience required. This role focuses on business tasks and offers hands-on learning in a fast-paced environment."
+  }
+]

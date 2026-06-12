@@ -1,0 +1,258 @@
+{
+  "Data Analyst Intern": [
+    {
+      "resume_id": "R038",
+      "name": "Ayesha Sheikh",
+      "score": 0.452,
+      "experience_years": 1
+    },
+    {
+      "resume_id": "R001",
+      "name": "Hira Ahmad",
+      "score": 0.452,
+      "experience_years": 0
+    },
+    {
+      "resume_id": "R028",
+      "name": "Bilal Butt",
+      "score": 0.44,
+      "experience_years": 2
+    },
+    {
+      "resume_id": "R034",
+      "name": "Hamza Raza",
+      "score": 0.434,
+      "experience_years": 0
+    },
+    {
+      "resume_id": "R016",
+      "name": "Ahmed Sheikh",
+      "score": 0.345,
+      "experience_years": 1
+    }
+  ],
+  "Machine Learning Intern": [
+    {
+      "resume_id": "R050",
+      "name": "Tariq Iqbal",
+      "score": 0.561,
+      "experience_years": 1
+    },
+    {
+      "resume_id": "R019",
+      "name": "Ali Khan",
+      "score": 0.437,
+      "experience_years": 0
+    },
+    {
+      "resume_id": "R001",
+      "name": "Hira Ahmad",
+      "score": 0.416,
+      "experience_years": 0
+    },
+    {
+      "resume_id": "R038",
+      "name": "Ayesha Sheikh",
+      "score": 0.368,
+      "experience_years": 1
+    },
+    {
+      "resume_id": "R028",
+      "name": "Bilal Butt",
+      "score": 0.358,
+      "experience_years": 2
+    }
+  ],
+  "Frontend Developer Intern": [
+    {
+      "resume_id": "R002",
+      "name": "Ayesha Sheikh",
+      "score": 0.447,
+      "experience_years": 0
+    },
+    {
+      "resume_id": "R040",
+      "name": "Sana Khan",
+      "score": 0.444,
+      "experience_years": 0
+    },
+    {
+      "resume_id": "R026",
+      "name": "Mahnoor Sheikh",
+      "score": 0.334,
+      "experience_years": 2
+    },
+    {
+      "resume_id": "R039",
+      "name": "Omar Raza",
+      "score": 0.316,
+      "experience_years": 1
+    },
+    {
+      "resume_id": "R015",
+      "name": "Ahmed Butt",
+      "score": 0.311,
+      "experience_years": 1
+    }
+  ],
+  "Full Stack Developer Intern": [
+    {
+      "resume_id": "R032",
+      "name": "Ali Sheikh",
+      "score": 0.373,
+      "experience_years": 0
+    },
+    {
+      "resume_id": "R026",
+      "name": "Mahnoor Sheikh",
+      "score": 0.347,
+      "experience_years": 2
+    },
+    {
+      "resume_id": "R039",
+      "name": "Omar Raza",
+      "score": 0.334,
+      "experience_years": 1
+    },
+    {
+      "resume_id": "R015",
+      "name": "Ahmed Butt",
+      "score": 0.311,
+      "experience_years": 1
+    },
+    {
+      "resume_id": "R010",
+      "name": "Ayesha Butt",
+      "score": 0.278,
+      "experience_years": 0
+    }
+  ],
+  "Digital Marketing Intern": [
+    {
+      "resume_id": "R037",
+      "name": "Ahmed Chaudhry",
+      "score": 0.605,
+      "experience_years": 2
+    },
+    {
+      "resume_id": "R031",
+      "name": "Maria Ahmad",
+      "score": 0.589,
+      "experience_years": 1
+    },
+    {
+      "resume_id": "R022",
+      "name": "Saad Sheikh",
+      "score": 0.587,
+      "experience_years": 0
+    },
+    {
+      "resume_id": "R045",
+      "name": "Sana Malik",
+      "score": 0.582,
+      "experience_years": 0
+    },
+    {
+      "resume_id": "R020",
+      "name": "Tariq Farooq",
+      "score": 0.565,
+      "experience_years": 0
+    }
+  ],
+  "Performance Marketing Intern": [
+    {
+      "resume_id": "R048",
+      "name": "Ayesha Raza",
+      "score": 0.592,
+      "experience_years": 2
+    },
+    {
+      "resume_id": "R018",
+      "name": "Hira Raza",
+      "score": 0.586,
+      "experience_years": 1
+    },
+    {
+      "resume_id": "R017",
+      "name": "Omar Chaudhry",
+      "score": 0.557,
+      "experience_years": 1
+    },
+    {
+      "resume_id": "R037",
+      "name": "Ahmed Chaudhry",
+      "score": 0.42,
+      "experience_years": 2
+    },
+    {
+      "resume_id": "R023",
+      "name": "Ahmed Hussain",
+      "score": 0.417,
+      "experience_years": 1
+    }
+  ],
+  "UI/UX Design Intern": [
+    {
+      "resume_id": "R007",
+      "name": "Fatima Iqbal",
+      "score": 0.606,
+      "experience_years": 1
+    },
+    {
+      "resume_id": "R030",
+      "name": "Bilal Ahmad",
+      "score": 0.604,
+      "experience_years": 2
+    },
+    {
+      "resume_id": "R029",
+      "name": "Bilal Hussain",
+      "score": 0.601,
+      "experience_years": 1
+    },
+    {
+      "resume_id": "R042",
+      "name": "Amna Hussain",
+      "score": 0.599,
+      "experience_years": 1
+    },
+    {
+      "resume_id": "R021",
+      "name": "Mahnoor Ahmad",
+      "score": 0.584,
+      "experience_years": 0
+    }
+  ],
+  "Business Analyst Intern": [
+    {
+      "resume_id": "R008",
+      "name": "Bilal Khan",
+      "score": 0.793,
+      "experience_years": 1
+    },
+    {
+      "resume_id": "R033",
+      "name": "Mahnoor Hussain",
+      "score": 0.643,
+      "experience_years": 2
+    },
+    {
+      "resume_id": "R043",
+      "name": "Hira Ahmad",
+      "score": 0.62,
+      "experience_years": 2
+    },
+    {
+      "resume_id": "R049",
+      "name": "Amna Farooq",
+      "score": 0.601,
+      "experience_years": 0
+    },
+    {
+      "resume_id": "R005",
+      "name": "Mahnoor Iqbal",
+      "score": 0.434,
+      "experience_years": 1
+    }
+  ]
+}

@@ -1,0 +1,920 @@
+[
+  {
+    "resume_id":"R001",
+    "name":"Hira Ahmad",
+    "domain":"data",
+    "education":"BS Economics",
+    "university":"COMSATS",
+    "experience_years":0,
+    "skills":[
+      "NumPy",
+      "Prototyping",
+      "Statistics",
+      "Teamwork",
+      "Python",
+      "Time Management",
+      "Leadership",
+      "Data Visualization"
+    ],
+    "resume_text":"Hira Ahmad is a BS Economics student at COMSATS with no formal work experience yet, eager to start a career. Proficient in NumPy, Prototyping, Statistics, Teamwork, Python, Time Management, Leadership and Data Visualization. Strong background in data with a passion for continuous learning and delivering quality results. Demonstrates time management and leadership in team-based environments."
+  },
+  {
+    "resume_id":"R002",
+    "name":"Ayesha Sheikh",
+    "domain":"web_dev",
+    "education":"BSc Data Science",
+    "university":"COMSATS",
+    "experience_years":0,
+    "skills":[
+      "React",
+      "Communication",
+      "CSS",
+      "TypeScript",
+      "Time Management",
+      "Git",
+      "Leadership"
+    ],
+    "resume_text":"Ayesha Sheikh is a BSc Data Science student at COMSATS with no formal work experience yet, eager to start a career. Proficient in React, Communication, CSS, TypeScript, Time Management, Git and Leadership. Strong background in web dev with a passion for continuous learning and delivering quality results. Demonstrates time management and leadership in team-based environments."
+  },
+  {
+    "resume_id":"R003",
+    "name":"Faisal Hussain",
+    "domain":"data",
+    "education":"BSc Information Technology",
+    "university":"GIKI",
+    "experience_years":2,
+    "skills":[
+      "Statistics",
+      "Teamwork",
+      "Google Analytics",
+      "R",
+      "Excel",
+      "Communication",
+      "Leadership",
+      "Data Visualization"
+    ],
+    "resume_text":"Faisal Hussain is a BSc Information Technology student at GIKI with 2 year(s) of hands-on experience. Proficient in Statistics, Teamwork, Google Analytics, R, Excel, Communication, Leadership and Data Visualization. Strong background in data with a passion for continuous learning and delivering quality results. Demonstrates communication and leadership in team-based environments."
+  },
+  {
+    "resume_id":"R004",
+    "name":"Maria Hussain",
+    "domain":"data",
+    "education":"BSc Computer Science",
+    "university":"Punjab University",
+    "experience_years":0,
+    "skills":[
+      "NumPy",
+      "Pandas",
+      "Teamwork",
+      "PowerPoint",
+      "Communication",
+      "Python",
+      "Tableau",
+      "Leadership"
+    ],
+    "resume_text":"Maria Hussain is a BSc Computer Science student at Punjab University with no formal work experience yet, eager to start a career. Proficient in NumPy, Pandas, Teamwork, PowerPoint, Communication, Python, Tableau and Leadership. Strong background in data with a passion for continuous learning and delivering quality results. Demonstrates teamwork and leadership in team-based environments."
+  },
+  {
+    "resume_id":"R005",
+    "name":"Mahnoor Iqbal",
+    "domain":"business",
+    "education":"BSc Data Science",
+    "university":"NIT Lahore",
+    "experience_years":1,
+    "skills":[
+      "Business Analysis",
+      "Problem Solving",
+      "Email Marketing",
+      "PowerPoint",
+      "Market Research",
+      "Time Management",
+      "Project Management"
+    ],
+    "resume_text":"Mahnoor Iqbal is a BSc Data Science student at NIT Lahore with 1 year(s) of hands-on experience. Proficient in Business Analysis, Problem Solving, Email Marketing, PowerPoint, Market Research, Time Management and Project Management. Strong background in business with a passion for continuous learning and delivering quality results. Demonstrates time management and problem solving in team-based environments."
+  },
+  {
+    "resume_id":"R006",
+    "name":"Faisal Farooq",
+    "domain":"marketing",
+    "education":"BSc Computer Science",
+    "university":"IBA Karachi",
+    "experience_years":1,
+    "skills":[
+      "Email Marketing",
+      "Communication",
+      "Content Writing",
+      "Canva",
+      "Adaptability",
+      "Figma",
+      "SEO"
+    ],
+    "resume_text":"Faisal Farooq is a BSc Computer Science student at IBA Karachi with 1 year(s) of hands-on experience. Proficient in Email Marketing, Communication, Content Writing, Canva, Adaptability, Figma and SEO. Strong background in marketing with a passion for continuous learning and delivering quality results. Demonstrates communication and adaptability in team-based environments."
+  },
+  {
+    "resume_id":"R007",
+    "name":"Fatima Iqbal",
+    "domain":"design",
+    "education":"BSc Information Technology",
+    "university":"FAST-NUCES",
+    "experience_years":1,
+    "skills":[
+      "Prototyping",
+      "NumPy",
+      "Adobe Photoshop",
+      "UI\/UX Design",
+      "Adaptability",
+      "Leadership",
+      "Figma"
+    ],
+    "resume_text":"Fatima Iqbal is a BSc Information Technology student at FAST-NUCES with 1 year(s) of hands-on experience. Proficient in Prototyping, NumPy, Adobe Photoshop, UI\/UX Design, Adaptability, Leadership and Figma. Strong background in design with a passion for continuous learning and delivering quality results. Demonstrates adaptability and leadership in team-based environments."
+  },
+  {
+    "resume_id":"R008",
+    "name":"Bilal Khan",
+    "domain":"business",
+    "education":"BSc Data Science",
+    "university":"IBA Karachi",
+    "experience_years":1,
+    "skills":[
+      "Business Analysis",
+      "Market Research",
+      "Excel",
+      "Adobe Illustrator",
+      "Communication",
+      "Project Management",
+      "Financial Modeling",
+      "Leadership"
+    ],
+    "resume_text":"Bilal Khan is a BSc Data Science student at IBA Karachi with 1 year(s) of hands-on experience. Proficient in Business Analysis, Market Research, Excel, Adobe Illustrator, Communication, Project Management, Financial Modeling and Leadership. Strong background in business with a passion for continuous learning and delivering quality results. Demonstrates communication and leadership in team-based environments."
+  },
+  {
+    "resume_id":"R009",
+    "name":"Usman Sheikh",
+    "domain":"web_dev",
+    "education":"BSc Graphic Design",
+    "university":"GIKI",
+    "experience_years":0,
+    "skills":[
+      "Problem Solving",
+      "React",
+      "Excel",
+      "REST APIs",
+      "Next.js",
+      "Adaptability",
+      "TypeScript"
+    ],
+    "resume_text":"Usman Sheikh is a BSc Graphic Design student at GIKI with no formal work experience yet, eager to start a career. Proficient in Problem Solving, React, Excel, REST APIs, Next.js, Adaptability and TypeScript. Strong background in web dev with a passion for continuous learning and delivering quality results. Demonstrates problem solving and adaptability in team-based environments."
+  },
+  {
+    "resume_id":"R010",
+    "name":"Ayesha Butt",
+    "domain":"web_dev",
+    "education":"BSc Computer Science",
+    "university":"FAST-NUCES",
+    "experience_years":0,
+    "skills":[
+      "R",
+      "REST APIs",
+      "Communication",
+      "Next.js",
+      "CSS",
+      "SQL",
+      "MongoDB",
+      "Time Management"
+    ],
+    "resume_text":"Ayesha Butt is a BSc Computer Science student at FAST-NUCES with no formal work experience yet, eager to start a career. Proficient in R, REST APIs, Communication, Next.js, CSS, SQL, MongoDB and Time Management. Strong background in web dev with a passion for continuous learning and delivering quality results. Demonstrates time management and communication in team-based environments."
+  },
+  {
+    "resume_id":"R011",
+    "name":"Hassan Sheikh",
+    "domain":"data",
+    "education":"BS Economics",
+    "university":"GIKI",
+    "experience_years":0,
+    "skills":[
+      "Teamwork",
+      "Problem Solving",
+      "Excel",
+      "SQL",
+      "Python",
+      "Machine Learning",
+      "Meta Ads"
+    ],
+    "resume_text":"Hassan Sheikh is a BS Economics student at GIKI with no formal work experience yet, eager to start a career. Proficient in Teamwork, Problem Solving, Excel, SQL, Python, Machine Learning and Meta Ads. Strong background in data with a passion for continuous learning and delivering quality results. Demonstrates teamwork and problem solving in team-based environments."
+  },
+  {
+    "resume_id":"R012",
+    "name":"Zainab Raza",
+    "domain":"data",
+    "education":"BSc Information Technology",
+    "university":"UET Lahore",
+    "experience_years":0,
+    "skills":[
+      "Problem Solving",
+      "Excel",
+      "REST APIs",
+      "Machine Learning",
+      "Python",
+      "Adaptability",
+      "Tableau"
+    ],
+    "resume_text":"Zainab Raza is a BSc Information Technology student at UET Lahore with no formal work experience yet, eager to start a career. Proficient in Problem Solving, Excel, REST APIs, Machine Learning, Python, Adaptability and Tableau. Strong background in data with a passion for continuous learning and delivering quality results. Demonstrates adaptability and problem solving in team-based environments."
+  },
+  {
+    "resume_id":"R013",
+    "name":"Ahmed Hussain",
+    "domain":"data",
+    "education":"BSc Software Engineering",
+    "university":"GIKI",
+    "experience_years":2,
+    "skills":[
+      "Pandas",
+      "Teamwork",
+      "Excel",
+      "Machine Learning",
+      "Time Management",
+      "Tableau",
+      "Leadership"
+    ],
+    "resume_text":"Ahmed Hussain is a BSc Software Engineering student at GIKI with 2 year(s) of hands-on experience. Proficient in Pandas, Teamwork, Excel, Machine Learning, Time Management, Tableau and Leadership. Strong background in data with a passion for continuous learning and delivering quality results. Demonstrates time management and teamwork in team-based environments."
+  },
+  {
+    "resume_id":"R014",
+    "name":"Ahmed Sheikh",
+    "domain":"data",
+    "education":"BSc Computer Science",
+    "university":"Punjab University",
+    "experience_years":1,
+    "skills":[
+      "Statistics",
+      "React",
+      "Power BI",
+      "Excel",
+      "Communication",
+      "SQL",
+      "Leadership"
+    ],
+    "resume_text":"Ahmed Sheikh is a BSc Computer Science student at Punjab University with 1 year(s) of hands-on experience. Proficient in Statistics, React, Power BI, Excel, Communication, SQL and Leadership. Strong background in data with a passion for continuous learning and delivering quality results. Demonstrates leadership and communication in team-based environments."
+  },
+  {
+    "resume_id":"R015",
+    "name":"Ahmed Butt",
+    "domain":"web_dev",
+    "education":"BSc Software Engineering",
+    "university":"IBA Karachi",
+    "experience_years":1,
+    "skills":[
+      "Problem Solving",
+      "React",
+      "Communication",
+      "UI\/UX Design",
+      "MongoDB",
+      "TypeScript",
+      "Git",
+      "Leadership"
+    ],
+    "resume_text":"Ahmed Butt is a BSc Software Engineering student at IBA Karachi with 1 year(s) of hands-on experience. Proficient in Problem Solving, React, Communication, UI\/UX Design, MongoDB, TypeScript, Git and Leadership. Strong background in web dev with a passion for continuous learning and delivering quality results. Demonstrates problem solving and communication in team-based environments."
+  },
+  {
+    "resume_id":"R016",
+    "name":"Ahmed Sheikh",
+    "domain":"data",
+    "education":"BSc Information Technology",
+    "university":"FAST-NUCES",
+    "experience_years":1,
+    "skills":[
+      "Teamwork",
+      "Excel",
+      "Adobe Illustrator",
+      "SQL",
+      "Adaptability",
+      "Tableau",
+      "Leadership",
+      "Data Visualization"
+    ],
+    "resume_text":"Ahmed Sheikh is a BSc Information Technology student at FAST-NUCES with 1 year(s) of hands-on experience. Proficient in Teamwork, Excel, Adobe Illustrator, SQL, Adaptability, Tableau, Leadership and Data Visualization. Strong background in data with a passion for continuous learning and delivering quality results. Demonstrates teamwork and leadership in team-based environments."
+  },
+  {
+    "resume_id":"R017",
+    "name":"Omar Chaudhry",
+    "domain":"marketing",
+    "education":"BSc Computer Science",
+    "university":"NIT Lahore",
+    "experience_years":1,
+    "skills":[
+      "Google Analytics",
+      "Communication",
+      "Content Writing",
+      "Node.js",
+      "TypeScript",
+      "Copywriting",
+      "Time Management",
+      "Meta Ads"
+    ],
+    "resume_text":"Omar Chaudhry is a BSc Computer Science student at NIT Lahore with 1 year(s) of hands-on experience. Proficient in Google Analytics, Communication, Content Writing, Node.js, TypeScript, Copywriting, Time Management and Meta Ads. Strong background in marketing with a passion for continuous learning and delivering quality results. Demonstrates communication and time management in team-based environments."
+  },
+  {
+    "resume_id":"R018",
+    "name":"Hira Raza",
+    "domain":"marketing",
+    "education":"BSc Graphic Design",
+    "university":"UET Lahore",
+    "experience_years":1,
+    "skills":[
+      "Teamwork",
+      "Google Analytics",
+      "Email Marketing",
+      "Market Research",
+      "Meta Ads",
+      "Leadership",
+      "SEO"
+    ],
+    "resume_text":"Hira Raza is a BSc Graphic Design student at UET Lahore with 1 year(s) of hands-on experience. Proficient in Teamwork, Google Analytics, Email Marketing, Market Research, Meta Ads, Leadership and SEO. Strong background in marketing with a passion for continuous learning and delivering quality results. Demonstrates leadership and teamwork in team-based environments."
+  },
+  {
+    "resume_id":"R019",
+    "name":"Ali Khan",
+    "domain":"data",
+    "education":"BBA",
+    "university":"Punjab University",
+    "experience_years":0,
+    "skills":[
+      "NumPy",
+      "Statistics",
+      "Excel",
+      "Content Writing",
+      "Machine Learning",
+      "Time Management",
+      "Leadership"
+    ],
+    "resume_text":"Ali Khan is a BBA student at Punjab University with no formal work experience yet, eager to start a career. Proficient in NumPy, Statistics, Excel, Content Writing, Machine Learning, Time Management and Leadership. Strong background in data with a passion for continuous learning and delivering quality results. Demonstrates time management and leadership in team-based environments."
+  },
+  {
+    "resume_id":"R020",
+    "name":"Tariq Farooq",
+    "domain":"marketing",
+    "education":"BSc Graphic Design",
+    "university":"IBA Karachi",
+    "experience_years":0,
+    "skills":[
+      "Social Media Marketing",
+      "Adobe Illustrator",
+      "Content Writing",
+      "Communication",
+      "Project Management",
+      "Meta Ads",
+      "Leadership",
+      "SEO"
+    ],
+    "resume_text":"Tariq Farooq is a BSc Graphic Design student at IBA Karachi with no formal work experience yet, eager to start a career. Proficient in Social Media Marketing, Adobe Illustrator, Content Writing, Communication, Project Management, Meta Ads, Leadership and SEO. Strong background in marketing with a passion for continuous learning and delivering quality results. Demonstrates communication and leadership in team-based environments."
+  },
+  {
+    "resume_id":"R021",
+    "name":"Mahnoor Ahmad",
+    "domain":"design",
+    "education":"BS Economics",
+    "university":"UET Lahore",
+    "experience_years":0,
+    "skills":[
+      "Prototyping",
+      "Problem Solving",
+      "Excel",
+      "Adobe Illustrator",
+      "UI\/UX Design",
+      "Leadership",
+      "Figma"
+    ],
+    "resume_text":"Mahnoor Ahmad is a BS Economics student at UET Lahore with no formal work experience yet, eager to start a career. Proficient in Prototyping, Problem Solving, Excel, Adobe Illustrator, UI\/UX Design, Leadership and Figma. Strong background in design with a passion for continuous learning and delivering quality results. Demonstrates problem solving and leadership in team-based environments."
+  },
+  {
+    "resume_id":"R022",
+    "name":"Saad Sheikh",
+    "domain":"marketing",
+    "education":"BSc Marketing",
+    "university":"IBA Karachi",
+    "experience_years":0,
+    "skills":[
+      "Problem Solving",
+      "Google Analytics",
+      "Social Media Marketing",
+      "Market Research",
+      "Content Writing",
+      "Canva",
+      "Adaptability"
+    ],
+    "resume_text":"Saad Sheikh is a BSc Marketing student at IBA Karachi with no formal work experience yet, eager to start a career. Proficient in Problem Solving, Google Analytics, Social Media Marketing, Market Research, Content Writing, Canva and Adaptability. Strong background in marketing with a passion for continuous learning and delivering quality results. Demonstrates problem solving and adaptability in team-based environments."
+  },
+  {
+    "resume_id":"R023",
+    "name":"Ahmed Hussain",
+    "domain":"marketing",
+    "education":"BSc Data Science",
+    "university":"GIKI",
+    "experience_years":1,
+    "skills":[
+      "Teamwork",
+      "Social Media Marketing",
+      "Communication",
+      "Adaptability",
+      "TypeScript",
+      "Copywriting",
+      "Meta Ads",
+      "SEO"
+    ],
+    "resume_text":"Ahmed Hussain is a BSc Data Science student at GIKI with 1 year(s) of hands-on experience. Proficient in Teamwork, Social Media Marketing, Communication, Adaptability, TypeScript, Copywriting, Meta Ads and SEO. Strong background in marketing with a passion for continuous learning and delivering quality results. Demonstrates communication and adaptability in team-based environments."
+  },
+  {
+    "resume_id":"R024",
+    "name":"Ahmed Hussain",
+    "domain":"marketing",
+    "education":"BBA",
+    "university":"NIT Lahore",
+    "experience_years":2,
+    "skills":[
+      "Teamwork",
+      "Problem Solving",
+      "Social Media Marketing",
+      "Market Research",
+      "Adobe Illustrator",
+      "Canva",
+      "Copywriting",
+      "Meta Ads"
+    ],
+    "resume_text":"Ahmed Hussain is a BBA student at NIT Lahore with 2 year(s) of hands-on experience. Proficient in Teamwork, Problem Solving, Social Media Marketing, Market Research, Adobe Illustrator, Canva, Copywriting and Meta Ads. Strong background in marketing with a passion for continuous learning and delivering quality results. Demonstrates teamwork and problem solving in team-based environments."
+  },
+  {
+    "resume_id":"R025",
+    "name":"Ayesha Raza",
+    "domain":"design",
+    "education":"BSc Data Science",
+    "university":"LUMS",
+    "experience_years":0,
+    "skills":[
+      "Prototyping",
+      "Adobe Photoshop",
+      "Problem Solving",
+      "Node.js",
+      "Adaptability",
+      "Wireframing",
+      "Figma"
+    ],
+    "resume_text":"Ayesha Raza is a BSc Data Science student at LUMS with no formal work experience yet, eager to start a career. Proficient in Prototyping, Adobe Photoshop, Problem Solving, Node.js, Adaptability, Wireframing and Figma. Strong background in design with a passion for continuous learning and delivering quality results. Demonstrates problem solving and adaptability in team-based environments."
+  },
+  {
+    "resume_id":"R026",
+    "name":"Mahnoor Sheikh",
+    "domain":"web_dev",
+    "education":"BSc Computer Science",
+    "university":"FAST-NUCES",
+    "experience_years":2,
+    "skills":[
+      "Excel",
+      "Communication",
+      "Node.js",
+      "TypeScript",
+      "Time Management",
+      "Git",
+      "JavaScript",
+      "Leadership"
+    ],
+    "resume_text":"Mahnoor Sheikh is a BSc Computer Science student at FAST-NUCES with 2 year(s) of hands-on experience. Proficient in Excel, Communication, Node.js, TypeScript, Time Management, Git, JavaScript and Leadership. Strong background in web dev with a passion for continuous learning and delivering quality results. Demonstrates leadership and time management in team-based environments."
+  },
+  {
+    "resume_id":"R027",
+    "name":"Tariq Khan",
+    "domain":"design",
+    "education":"BS Economics",
+    "university":"COMSATS",
+    "experience_years":2,
+    "skills":[
+      "Prototyping",
+      "Pandas",
+      "Adobe Photoshop",
+      "Problem Solving",
+      "Adobe Illustrator",
+      "UI\/UX Design",
+      "Leadership"
+    ],
+    "resume_text":"Tariq Khan is a BS Economics student at COMSATS with 2 year(s) of hands-on experience. Proficient in Prototyping, Pandas, Adobe Photoshop, Problem Solving, Adobe Illustrator, UI\/UX Design and Leadership. Strong background in design with a passion for continuous learning and delivering quality results. Demonstrates problem solving and leadership in team-based environments."
+  },
+  {
+    "resume_id":"R028",
+    "name":"Bilal Butt",
+    "domain":"data",
+    "education":"BSc Graphic Design",
+    "university":"NIT Lahore",
+    "experience_years":2,
+    "skills":[
+      "Statistics",
+      "Teamwork",
+      "Excel",
+      "Adobe Illustrator",
+      "SQL",
+      "Python",
+      "Time Management"
+    ],
+    "resume_text":"Bilal Butt is a BSc Graphic Design student at NIT Lahore with 2 year(s) of hands-on experience. Proficient in Statistics, Teamwork, Excel, Adobe Illustrator, SQL, Python and Time Management. Strong background in data with a passion for continuous learning and delivering quality results. Demonstrates time management and teamwork in team-based environments."
+  },
+  {
+    "resume_id":"R029",
+    "name":"Bilal Hussain",
+    "domain":"design",
+    "education":"BSc Marketing",
+    "university":"UET Lahore",
+    "experience_years":1,
+    "skills":[
+      "Social Media Marketing",
+      "Adobe Illustrator",
+      "UI\/UX Design",
+      "Wireframing",
+      "Time Management",
+      "Leadership",
+      "Figma"
+    ],
+    "resume_text":"Bilal Hussain is a BSc Marketing student at UET Lahore with 1 year(s) of hands-on experience. Proficient in Social Media Marketing, Adobe Illustrator, UI\/UX Design, Wireframing, Time Management, Leadership and Figma. Strong background in design with a passion for continuous learning and delivering quality results. Demonstrates time management and leadership in team-based environments."
+  },
+  {
+    "resume_id":"R030",
+    "name":"Bilal Ahmad",
+    "domain":"design",
+    "education":"BSc Computer Science",
+    "university":"IBA Karachi",
+    "experience_years":2,
+    "skills":[
+      "Prototyping",
+      "Teamwork",
+      "Adobe Illustrator",
+      "UI\/UX Design",
+      "Wireframing",
+      "Time Management"
+    ],
+    "resume_text":"Bilal Ahmad is a BSc Computer Science student at IBA Karachi with 2 year(s) of hands-on experience. Proficient in Prototyping, Teamwork, Adobe Illustrator, UI\/UX Design, Wireframing and Time Management. Strong background in design with a passion for continuous learning and delivering quality results. Demonstrates teamwork and time management in team-based environments."
+  },
+  {
+    "resume_id":"R031",
+    "name":"Maria Ahmad",
+    "domain":"marketing",
+    "education":"BSc Data Science",
+    "university":"Punjab University",
+    "experience_years":1,
+    "skills":[
+      "Teamwork",
+      "Adobe Photoshop",
+      "Social Media Marketing",
+      "Email Marketing",
+      "Content Writing",
+      "Node.js",
+      "Time Management",
+      "SEO"
+    ],
+    "resume_text":"Maria Ahmad is a BSc Data Science student at Punjab University with 1 year(s) of hands-on experience. Proficient in Teamwork, Adobe Photoshop, Social Media Marketing, Email Marketing, Content Writing, Node.js, Time Management and SEO. Strong background in marketing with a passion for continuous learning and delivering quality results. Demonstrates time management and teamwork in team-based environments."
+  },
+  {
+    "resume_id":"R032",
+    "name":"Ali Sheikh",
+    "domain":"web_dev",
+    "education":"BSc Marketing",
+    "university":"FAST-NUCES",
+    "experience_years":0,
+    "skills":[
+      "Teamwork",
+      "Problem Solving",
+      "React",
+      "Google Analytics",
+      "REST APIs",
+      "CSS",
+      "MongoDB"
+    ],
+    "resume_text":"Ali Sheikh is a BSc Marketing student at FAST-NUCES with no formal work experience yet, eager to start a career. Proficient in Teamwork, Problem Solving, React, Google Analytics, REST APIs, CSS and MongoDB. Strong background in web dev with a passion for continuous learning and delivering quality results. Demonstrates teamwork and problem solving in team-based environments."
+  },
+  {
+    "resume_id":"R033",
+    "name":"Mahnoor Hussain",
+    "domain":"business",
+    "education":"BSc Data Science",
+    "university":"GIKI",
+    "experience_years":2,
+    "skills":[
+      "Business Analysis",
+      "Teamwork",
+      "Market Research",
+      "Communication",
+      "Python",
+      "Project Management",
+      "Financial Modeling"
+    ],
+    "resume_text":"Mahnoor Hussain is a BSc Data Science student at GIKI with 2 year(s) of hands-on experience. Proficient in Business Analysis, Teamwork, Market Research, Communication, Python, Project Management and Financial Modeling. Strong background in business with a passion for continuous learning and delivering quality results. Demonstrates teamwork and communication in team-based environments."
+  },
+  {
+    "resume_id":"R034",
+    "name":"Hamza Raza",
+    "domain":"data",
+    "education":"BSc Marketing",
+    "university":"Punjab University",
+    "experience_years":0,
+    "skills":[
+      "Pandas",
+      "Statistics",
+      "PowerPoint",
+      "Communication",
+      "Python",
+      "Adaptability",
+      "Tableau"
+    ],
+    "resume_text":"Hamza Raza is a BSc Marketing student at Punjab University with no formal work experience yet, eager to start a career. Proficient in Pandas, Statistics, PowerPoint, Communication, Python, Adaptability and Tableau. Strong background in data with a passion for continuous learning and delivering quality results. Demonstrates adaptability and communication in team-based environments."
+  },
+  {
+    "resume_id":"R035",
+    "name":"Saad Khan",
+    "domain":"marketing",
+    "education":"BSc Data Science",
+    "university":"IBA Karachi",
+    "experience_years":0,
+    "skills":[
+      "Google Analytics",
+      "CSS",
+      "Canva",
+      "Adaptability",
+      "Copywriting",
+      "Time Management",
+      "Tableau",
+      "SEO"
+    ],
+    "resume_text":"Saad Khan is a BSc Data Science student at IBA Karachi with no formal work experience yet, eager to start a career. Proficient in Google Analytics, CSS, Canva, Adaptability, Copywriting, Time Management, Tableau and SEO. Strong background in marketing with a passion for continuous learning and delivering quality results. Demonstrates time management and adaptability in team-based environments."
+  },
+  {
+    "resume_id":"R036",
+    "name":"Tariq Khan",
+    "domain":"design",
+    "education":"BSc Data Science",
+    "university":"LUMS",
+    "experience_years":1,
+    "skills":[
+      "Prototyping",
+      "Teamwork",
+      "Adobe Photoshop",
+      "Problem Solving",
+      "Adobe Illustrator",
+      "Wireframing",
+      "Time Management",
+      "Financial Modeling"
+    ],
+    "resume_text":"Tariq Khan is a BSc Data Science student at LUMS with 1 year(s) of hands-on experience. Proficient in Prototyping, Teamwork, Adobe Photoshop, Problem Solving, Adobe Illustrator, Wireframing, Time Management and Financial Modeling. Strong background in design with a passion for continuous learning and delivering quality results. Demonstrates teamwork and problem solving in team-based environments."
+  },
+  {
+    "resume_id":"R037",
+    "name":"Ahmed Chaudhry",
+    "domain":"marketing",
+    "education":"BSc Data Science",
+    "university":"Punjab University",
+    "experience_years":2,
+    "skills":[
+      "Google Analytics",
+      "Social Media Marketing",
+      "Email Marketing",
+      "REST APIs",
+      "Content Writing",
+      "Communication",
+      "Python",
+      "Leadership"
+    ],
+    "resume_text":"Ahmed Chaudhry is a BSc Data Science student at Punjab University with 2 year(s) of hands-on experience. Proficient in Google Analytics, Social Media Marketing, Email Marketing, REST APIs, Content Writing, Communication, Python and Leadership. Strong background in marketing with a passion for continuous learning and delivering quality results. Demonstrates communication and leadership in team-based environments."
+  },
+  {
+    "resume_id":"R038",
+    "name":"Ayesha Sheikh",
+    "domain":"data",
+    "education":"BBA",
+    "university":"IBA Karachi",
+    "experience_years":1,
+    "skills":[
+      "NumPy",
+      "Pandas",
+      "Statistics",
+      "Market Research",
+      "Communication",
+      "SQL",
+      "Leadership"
+    ],
+    "resume_text":"Ayesha Sheikh is a BBA student at IBA Karachi with 1 year(s) of hands-on experience. Proficient in NumPy, Pandas, Statistics, Market Research, Communication, SQL and Leadership. Strong background in data with a passion for continuous learning and delivering quality results. Demonstrates communication and leadership in team-based environments."
+  },
+  {
+    "resume_id":"R039",
+    "name":"Omar Raza",
+    "domain":"web_dev",
+    "education":"BSc Data Science",
+    "university":"COMSATS",
+    "experience_years":1,
+    "skills":[
+      "Market Research",
+      "Node.js",
+      "CSS",
+      "MongoDB",
+      "Time Management",
+      "Git",
+      "Leadership"
+    ],
+    "resume_text":"Omar Raza is a BSc Data Science student at COMSATS with 1 year(s) of hands-on experience. Proficient in Market Research, Node.js, CSS, MongoDB, Time Management, Git and Leadership. Strong background in web dev with a passion for continuous learning and delivering quality results. Demonstrates leadership and time management in team-based environments."
+  },
+  {
+    "resume_id":"R040",
+    "name":"Sana Khan",
+    "domain":"web_dev",
+    "education":"BSc Software Engineering",
+    "university":"LUMS",
+    "experience_years":0,
+    "skills":[
+      "Teamwork",
+      "React",
+      "Communication",
+      "UI\/UX Design",
+      "CSS",
+      "Adaptability",
+      "TypeScript",
+      "JavaScript"
+    ],
+    "resume_text":"Sana Khan is a BSc Software Engineering student at LUMS with no formal work experience yet, eager to start a career. Proficient in Teamwork, React, Communication, UI\/UX Design, CSS, Adaptability, TypeScript and JavaScript. Strong background in web dev with a passion for continuous learning and delivering quality results. Demonstrates adaptability and communication in team-based environments."
+  },
+  {
+    "resume_id":"R041",
+    "name":"Mahnoor Khan",
+    "domain":"marketing",
+    "education":"BS Economics",
+    "university":"FAST-NUCES",
+    "experience_years":0,
+    "skills":[
+      "Problem Solving",
+      "Social Media Marketing",
+      "Email Marketing",
+      "Canva",
+      "Adaptability",
+      "Copywriting",
+      "Figma"
+    ],
+    "resume_text":"Mahnoor Khan is a BS Economics student at FAST-NUCES with no formal work experience yet, eager to start a career. Proficient in Problem Solving, Social Media Marketing, Email Marketing, Canva, Adaptability, Copywriting and Figma. Strong background in marketing with a passion for continuous learning and delivering quality results. Demonstrates problem solving and adaptability in team-based environments."
+  },
+  {
+    "resume_id":"R042",
+    "name":"Amna Hussain",
+    "domain":"design",
+    "education":"BSc Marketing",
+    "university":"LUMS",
+    "experience_years":1,
+    "skills":[
+      "Prototyping",
+      "Adobe Photoshop",
+      "Communication",
+      "UI\/UX Design",
+      "Wireframing",
+      "Time Management",
+      "Project Management"
+    ],
+    "resume_text":"Amna Hussain is a BSc Marketing student at LUMS with 1 year(s) of hands-on experience. Proficient in Prototyping, Adobe Photoshop, Communication, UI\/UX Design, Wireframing, Time Management and Project Management. Strong background in design with a passion for continuous learning and delivering quality results. Demonstrates communication and time management in team-based environments."
+  },
+  {
+    "resume_id":"R043",
+    "name":"Hira Ahmad",
+    "domain":"business",
+    "education":"BS Economics",
+    "university":"LUMS",
+    "experience_years":2,
+    "skills":[
+      "Business Analysis",
+      "Power BI",
+      "Social Media Marketing",
+      "PowerPoint",
+      "Market Research",
+      "Communication",
+      "Adaptability",
+      "Financial Modeling"
+    ],
+    "resume_text":"Hira Ahmad is a BS Economics student at LUMS with 2 year(s) of hands-on experience. Proficient in Business Analysis, Power BI, Social Media Marketing, PowerPoint, Market Research, Communication, Adaptability and Financial Modeling. Strong background in business with a passion for continuous learning and delivering quality results. Demonstrates adaptability and communication in team-based environments."
+  },
+  {
+    "resume_id":"R044",
+    "name":"Hamza Chaudhry",
+    "domain":"web_dev",
+    "education":"BSc Data Science",
+    "university":"FAST-NUCES",
+    "experience_years":1,
+    "skills":[
+      "Pandas",
+      "Problem Solving",
+      "REST APIs",
+      "Next.js",
+      "Canva",
+      "CSS",
+      "TypeScript",
+      "Leadership"
+    ],
+    "resume_text":"Hamza Chaudhry is a BSc Data Science student at FAST-NUCES with 1 year(s) of hands-on experience. Proficient in Pandas, Problem Solving, REST APIs, Next.js, Canva, CSS, TypeScript and Leadership. Strong background in web dev with a passion for continuous learning and delivering quality results. Demonstrates problem solving and leadership in team-based environments."
+  },
+  {
+    "resume_id":"R045",
+    "name":"Sana Malik",
+    "domain":"marketing",
+    "education":"BSc Marketing",
+    "university":"Punjab University",
+    "experience_years":0,
+    "skills":[
+      "Prototyping",
+      "Teamwork",
+      "Google Analytics",
+      "Social Media Marketing",
+      "Content Writing",
+      "Canva",
+      "Time Management",
+      "Project Management"
+    ],
+    "resume_text":"Sana Malik is a BSc Marketing student at Punjab University with no formal work experience yet, eager to start a career. Proficient in Prototyping, Teamwork, Google Analytics, Social Media Marketing, Content Writing, Canva, Time Management and Project Management. Strong background in marketing with a passion for continuous learning and delivering quality results. Demonstrates teamwork and time management in team-based environments."
+  },
+  {
+    "resume_id":"R046",
+    "name":"Noor Khan",
+    "domain":"data",
+    "education":"BSc Software Engineering",
+    "university":"FAST-NUCES",
+    "experience_years":3,
+    "skills":[
+      "Statistics",
+      "Adobe Photoshop",
+      "Power BI",
+      "Teamwork",
+      "Excel",
+      "SQL",
+      "Adaptability"
+    ],
+    "resume_text":"Noor Khan is a BSc Software Engineering student at FAST-NUCES with 3 year(s) of hands-on experience. Proficient in Statistics, Adobe Photoshop, Power BI, Teamwork, Excel, SQL and Adaptability. Strong background in data with a passion for continuous learning and delivering quality results. Demonstrates adaptability and teamwork in team-based environments."
+  },
+  {
+    "resume_id":"R047",
+    "name":"Noor Khan",
+    "domain":"data",
+    "education":"BSc Graphic Design",
+    "university":"LUMS",
+    "experience_years":0,
+    "skills":[
+      "Statistics",
+      "Problem Solving",
+      "Power BI",
+      "Communication",
+      "Machine Learning",
+      "SQL",
+      "Copywriting"
+    ],
+    "resume_text":"Noor Khan is a BSc Graphic Design student at LUMS with no formal work experience yet, eager to start a career. Proficient in Statistics, Problem Solving, Power BI, Communication, Machine Learning, SQL and Copywriting. Strong background in data with a passion for continuous learning and delivering quality results. Demonstrates communication and problem solving in team-based environments."
+  },
+  {
+    "resume_id":"R048",
+    "name":"Ayesha Raza",
+    "domain":"marketing",
+    "education":"BBA",
+    "university":"NIT Lahore",
+    "experience_years":2,
+    "skills":[
+      "Google Analytics",
+      "Email Marketing",
+      "Excel",
+      "Communication",
+      "Content Writing",
+      "Meta Ads",
+      "Leadership"
+    ],
+    "resume_text":"Ayesha Raza is a BBA student at NIT Lahore with 2 year(s) of hands-on experience. Proficient in Google Analytics, Email Marketing, Excel, Communication, Content Writing, Meta Ads and Leadership. Strong background in marketing with a passion for continuous learning and delivering quality results. Demonstrates communication and leadership in team-based environments."
+  },
+  {
+    "resume_id":"R049",
+    "name":"Amna Farooq",
+    "domain":"business",
+    "education":"BBA",
+    "university":"FAST-NUCES",
+    "experience_years":0,
+    "skills":[
+      "Business Analysis",
+      "Excel",
+      "Market Research",
+      "Communication",
+      "Time Management",
+      "Project Management"
+    ],
+    "resume_text":"Amna Farooq is a BBA student at FAST-NUCES with no formal work experience yet, eager to start a career. Proficient in Business Analysis, Excel, Market Research, Communication, Time Management and Project Management. Strong background in business with a passion for continuous learning and delivering quality results. Demonstrates time management and communication in team-based environments."
+  },
+  {
+    "resume_id":"R050",
+    "name":"Tariq Iqbal",
+    "domain":"data",
+    "education":"BSc Graphic Design",
+    "university":"GIKI",
+    "experience_years":1,
+    "skills":[
+      "NumPy",
+      "Teamwork",
+      "Excel",
+      "Machine Learning",
+      "Python",
+      "Time Management",
+      "Git"
+    ],
+    "resume_text":"Tariq Iqbal is a BSc Graphic Design student at GIKI with 1 year(s) of hands-on experience. Proficient in NumPy, Teamwork, Excel, Machine Learning, Python, Time Management and Git. Strong background in data with a passion for continuous learning and delivering quality results. Demonstrates time management and teamwork in team-based environments."
+  }
+]
